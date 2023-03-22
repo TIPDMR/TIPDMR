@@ -1,4 +1,4 @@
-## Привет! Я Дмитрий - Frontend разработчик <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" height="28px" alt="Привет" />
+## Привет! Я Дмитрий - Frontend разработчик.
 Мне нравится создавать веб-сайты, приложения которые будут красивыми, функциональными и удобными для пользователей.
 <br />
 
