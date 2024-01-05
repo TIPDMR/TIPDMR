@@ -2,7 +2,7 @@
 Мне нравится создавать веб-сайты, приложения которые будут красивыми, функциональными и удобными для пользователей.
 <br />
 
-Постоянно стремлюсь улучшать навыки и расширять знания, чтобы стать лучше. Я открыт к обучению и готов к работе в команде. Знаком с базовыми концепциями программирования.
+Постоянно стремлюсь улучшать навыки и расширять знания, чтобы стать лучше. Открыт к обучению и готов к работе в команде. 
 
 
 ## 💻 Мой стэк
@@ -11,7 +11,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23ffffff) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=%23ffffff) 
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat-square&logo=json)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=%23ffffff) 
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?style=flat-square&logo=gulp&logoColor=%23ffffff) 
@@ -27,7 +28,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🎨 Планирую изучить
-
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
