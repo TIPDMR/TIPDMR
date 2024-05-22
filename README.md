@@ -37,12 +37,16 @@
 
 ### 🔰 Лазурит
 Сайт коммерческой компании по продаже изделий из мрамора, благоустройств ритуальных мест и кованых изделий.
-- CMS: Joomla 
+- CMS: Joomla
+- Стек: PHP, MariaDB, jquery, fancybox, bootstrap, mootools
+- Плагины: sh404sef, OSMap, JoomGallery
 - [Сайт](https://kras-kamen.ru/)
 
 ### 🔰 Мал-Яр
 Сайт компании промыслово-заготовительного общества Мал-ЯР
-- CMS: Wordpress 
+- CMS: Wordpress
+- Стек: PHP, MariaDB, Jquery, Fancybox, Gsap, Bootstrap
+- Плагины: WPBakery, WooComerce, Slider Revolution, Yoast SEO
 - [Сайт](https://mal-yar.ru/)
 
 
@@ -57,7 +61,7 @@
 
 ### 🔰 "Astrology"
 Адаптивный, кросс браузерный одностраничный сайт по астрологии.
-- HTML5, CSS3, BEM, Gulp, Twig, Webpack, SCSS, BEM, Figma.
+- HTML5, CSS3, BEM, Gulp, Twig, Webpack, SCSS, Figma.
 - [Исходный код](https://github.com/TIPDMR/Astro-html-template)
 - [Демо](https://tipdmr.github.io/Astro-html-template/)
 
